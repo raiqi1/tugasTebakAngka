@@ -49,4 +49,5 @@ class Table {
   });
   const app = document.getElementById("app");
   table.render(app);
-  
+
+  export default table
