@@ -1,5 +1,4 @@
 let nilai = prompt("input nilai");
-
         if(nilai >= 80 && nilai <=100){
             alert("Nilai anda A");
         }else if(nilai >= 60 && nilai <80){
